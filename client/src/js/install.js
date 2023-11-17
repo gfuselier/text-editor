@@ -1,7 +1,7 @@
 const butInstall = document.getElementById('buttonInstall');
 
 // Logic for installing the PWA
-// TODO: Add an event handler to the `beforeinstallprompt` event
+// TODO: Add an event handler to the `beforeinstallprompt` event - TODOS are boilerplate
 window.addEventListener('beforeinstallprompt', (event) => {});
 
 // TODO: Implement a click event handler on the `butInstall` element
