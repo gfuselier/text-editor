@@ -6,5 +6,7 @@ Text Editor is a single-page app that runs in the browser and is a progressive w
 ## Usage 
 View the deployed app [here](https://infinite-mesa-80804-f85e71a95510.herokuapp.com/).
 
+![screenshot](assets/screenshot.png)
+
 ## License
 None
